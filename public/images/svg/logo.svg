@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="282.8" height="108.76" viewBox="0 0 282.8 108.76">
+  <defs>
+    <filter id="四书风雅颂_三才天地人" x="8.515" y="77.012" width="268.77" height="27.77" filterUnits="userSpaceOnUse">
+      <feOffset dy="0.65" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.425" result="blur"/>
+      <feFlood flood-color="#f0e2de"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1474" data-name="Rectangle 1474" width="47.212" height="19.94" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Component_82_1" data-name="Component 82 – 1" transform="translate(1.9 1.9)">
+    <g id="Component_77_1" data-name="Component 77 – 1">
+      <g id="Group_902" data-name="Group 902" transform="translate(-5 -8)">
+        <g id="Component_79_1" data-name="Component 79 – 1" transform="translate(5 8)">
+          <g id="Component_30_2" data-name="Component 30 – 2">
+            <text id="新三才_" data-name="新三才 " fill="#e05d18" stroke="#e05d18" stroke-width="1.9" font-size="88" font-family="TSC-FLi-L5-TT, LiShu-FanTi-b5" letter-spacing="0.05em"><tspan x="2.783" y="70">新三才 </tspan></text>
+          </g>
+          <g id="Component_33_2" data-name="Component 33 – 2" transform="translate(16.844 102.282)">
+            <line id="Line_32" data-name="Line 32" x2="228.988" transform="translate(15.688)" fill="none" stroke="#3f71f7" stroke-width="0.8"/>
+            <line id="Line_33" data-name="Line 33" x2="228.988" transform="translate(0 2.089)" fill="none" stroke="#388035" stroke-width="0.8" opacity="0.591"/>
+            <line id="Line_73" data-name="Line 73" x2="228.988" transform="translate(15.688 4.178)" fill="none" stroke="#d92e0f" stroke-width="0.8" opacity="0.591"/>
+          </g>
+        </g>
+      </g>
+      <g id="Component_32_1" data-name="Component 32 – 1" transform="translate(8 75.847)">
+        <g id="Component_75_1" data-name="Component 75 – 1">
+          <g transform="matrix(1, 0, 0, 1, -9.9, -77.75)" filter="url(#四书风雅颂_三才天地人)">
+            <text id="四书风雅颂_三才天地人-2" data-name="四书风雅颂        三才天地人" transform="translate(9.9 77.75)" fill="#f8f0ed" stroke="rgba(227,177,167,0.99)" stroke-width="0.11" font-size="20" font-family="FZLSFW--GB1-0, FZLiShu-S01T" letter-spacing="0.07em"><tspan x="1.053" y="18" xml:space="preserve">四书风雅颂        三才天地人</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Component_78_1" data-name="Component 78 – 1" transform="translate(115.576 75.211)">
+      <g id="Group_6349" data-name="Group 6349" opacity="0.516">
+        <g id="Group_6346" data-name="Group 6346" transform="translate(0 0)">
+          <g id="Group_6345" data-name="Group 6345" clip-path="url(#clip-path)">
+            <path id="Path_798" data-name="Path 798" d="M23.505.385a5.866,5.866,0,0,0-3.572,4.728,4.714,4.714,0,0,0-6-.4C11.5,6.66,13.066,9.8,13.066,9.8c-4.048-1.54-6.874,1.258-8.57,2.36s-4.5.472-4.5.472c1.7,1.233,3.7.829,5.511.426,2.177-.487,4.063-.974,4.777,1.4,1.306,4.349,6.023,5.477,8.371,3.4s1.765-5.976.073-6.538-2.389.559-2.288,1.184,1.368,1.087,1.368,1.087a1.665,1.665,0,0,1-1.1-3.141c1.87-.962,4.632.134,5.339,4.775a4.189,4.189,0,0,0,6.926,2.9c1.584-1.6,1.074-3.716-.3-4.207s-2.4.261-2.393,1.188,1.558,1.359,1.558,1.359A1.633,1.633,0,0,1,25.6,14.9c-.074-1.819,2.462-2.577,4.231-1.545S30.9,16.716,30.9,16.716s3.561,1.818,6.081-.306a4.355,4.355,0,0,0,1.239-1.651,10.51,10.51,0,0,0,8.993-1.918s-3.22,1.465-5.552-.456a9.2,9.2,0,0,0-4.331-2.117,3.363,3.363,0,0,0-2.1.412A2,2,0,0,0,34.149,12.4c-.017.868.979,1.352.979,1.352C33.4,14,32.466,12.171,34.057,10.67a4.083,4.083,0,0,0,.67-.787c2.39-3.823-1.9-5.423-1.9-5.423.57,2.967-1.324,6.059-3.853,6.449S24.861,9.54,25.056,8.2a2.225,2.225,0,0,1,1.623-1.693A2.033,2.033,0,0,0,26.032,8.8c.739,1.619,4.876,1.856,5.606-2.359C32.322,2.5,28.8,0,25.573,0a5.508,5.508,0,0,0-2.068.385" transform="translate(0 0)" fill="#0093ff"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
